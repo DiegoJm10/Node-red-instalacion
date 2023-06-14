@@ -5,7 +5,7 @@
 1. Entrar a la pagina  https://nodejs.org/en
 2. Descargar el archivo **18.16.0 LTS** como se muestra en la siguente imagen.
 
-![](https://github.com/DiegoJm10/PracticaDHT/blob/main/New%20ESP32%20Project%20-%20Wokwi%20Simulator%20-%20Google%20Chrome%2008_06_2023%2011_10_20%20p.%20m..png?raw=true)
+![](https://github.com/DiegoJm10/Node-red-instalcacion/blob/main/Node.js%20-%20Google%20Chrome%2014_06_2023%2005_04_00%20p.%20m..png?raw=true)
 
 3. Abrir el archivo e instalar el programa [node.js](https://nodejs.org/en)
 4. Abrir terminal en modo administrador y escribir lo siguente:
@@ -31,5 +31,10 @@ node-red
 ## Instalación de Dashboard
 
 1. Abrimos la pestaña de opciones y elegimos ```Manage palette``` 
+
+![](https://github.com/DiegoJm10/Node-red-instalcacion/blob/main/Node.js%20-%20Google%20Chrome%2014_06_2023%2005_06_26%20p.%20m..png?raw=true)
+
 2. Seleccionamos **Install* y buscamos ```node-red-dashboard```.
 3. Seleccionamos ```node-red-dashboard```.
+![](https://github.com/DiegoJm10/Node-red-instalcacion/blob/main/Node.js%20-%20Google%20Chrome%2014_06_2023%2005_06_17%20p.%20m..png?raw=true)
+
